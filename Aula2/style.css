@@ -33,6 +33,10 @@ div.card{
     justify-content: center;
     padding-top: 2rem;
 }
+main{
+    width: 100%;
+    display: flex;
+}
 .logo{
     font-family: 'Courgette', cursive;
     color: aliceblue;
